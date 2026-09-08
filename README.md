@@ -1,2 +1,1 @@
-# taskflow
-A real-time, role-based operations platform for internal teams — built on a full MERN + Socket.IO stack with JWT auth and a live event-driven core.
+A full-stack real-time team management platform with role-based access, task assignment, priority tracking, and live updates powered by MERN, Socket.IO, and JWT authentication.
